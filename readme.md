@@ -8,6 +8,10 @@
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the [Clueboard product line](https://clueboard.co).
 
+## Keyboards I have 
+- [GMMK Pro](/keyboards/gmmk/pro/ansi/keymaps) #create sped keymap and link to that one
+- (future) [KBD67](/keyboards/kbdfans/kbd67/mkiirbg)
+
 ## Documentation
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
