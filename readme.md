@@ -12,6 +12,9 @@ This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github
 - [GMMK Pro](/keyboards/gmmk/pro/ansi/keymaps) #create sped keymap and link to that one
 - (future) [KBD67](/keyboards/kbdfans/kbd67/mkiirgb)
 
+## TODO Pictures
+- (idk, link an image from reddit or imgur)
+
 ## Documentation
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
